@@ -1,0 +1,15 @@
+[project]
+name = "baser"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "runeblaze", email = "runeblaze@excite.co.jp"},
+]
+dependencies = []
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
